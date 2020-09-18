@@ -1,6 +1,9 @@
 # nativeimage-cheatcheet
 Example of an scala project with native-image plugin
 
+### Edit Code
+sbt launchIDE // (starts vscode)
+
 ### Run
 sbt run
 
