@@ -6,6 +6,8 @@
 .vscode/
 .bloop
 .idea
+.dotty-ide-artifact
+.dotty-ide.json
 metals.sbt
 
 project/project
