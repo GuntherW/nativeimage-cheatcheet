@@ -6,5 +6,3 @@ def app(): Unit =
     for (i <- 0 to 5)
         println((s"$i test").hashCode())
     println("Tschüss Welt")
-    
-
