@@ -11,4 +11,4 @@ sbt run
 sbt nativeImage
 
 ### Run Native Image
-target/nativeimage-cheatcheet
+target/native-image/nativeimage-cheatsheet
